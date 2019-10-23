@@ -8,7 +8,7 @@ of each person thats in the two following groups. Since this compares a current 
 be useful until you run it for the first time to set the first list of followers. 
 
 --Main Requirements--
-THe main requirements for this program are
+The main requirements for this program are
 - valid API keys(access token, consumer key, etc)
 - Tweepy 
 -Python 2.7
